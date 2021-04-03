@@ -6,7 +6,7 @@ Django is a high-level Python Web framework that encourages rapid development an
 
 ![PythonDjango](python-django.png)
 
-### The road map to become successful Nodejs engineer
+### The road map to become successful Python-Django engineer
 
 #### I am assuming that you already have following knowladge
 
