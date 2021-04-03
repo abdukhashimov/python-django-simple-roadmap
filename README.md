@@ -137,3 +137,7 @@ Feel free to contribute
 Please choose one field in the starting point. It can either be Back-end or Front-end or Dev-Ops or may be QA. You do not have to know all the things when starting, it just slows your learning speed. So Implementing just back-end for above projects is quite enough to get started with job or startup
 
 #### TLDR: Just implement back-end
+
+---
+
+> Whenever you can please espace monolitic hell and migrate towares microservices
