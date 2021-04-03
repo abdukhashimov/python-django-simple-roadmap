@@ -140,4 +140,4 @@ Please choose one field in the starting point. It can either be Back-end or Fron
 
 ---
 
-> Whenever you can please espace monolitic hell and migrate towares microservices
+> Whenever you can please espace monolithic hell and migrate towards microservices
